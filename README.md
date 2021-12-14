@@ -1,6 +1,6 @@
 # github-exercise
 
-This project defines a simple Express server that fetches data about a specific Github repo.
+This project defines a simple Node.js/Express.js server that fetches data about a specific Github repo.
 
 ### To install and run locally: 
 
